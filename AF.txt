@@ -1,0 +1,1 @@
+PART ID             MODEL CODE          MODEL NAME          SECTION CODE        SECTION NAME        PART CODE           PART NAME           QUANTITY            SUPPLIER CODE       SUPPLIER NAME       
